@@ -1,0 +1,31 @@
+body 
+{
+    background-color: brown;
+    
+}
+h1
+{
+    color: royalblue;
+    font-size: 120px;
+
+}
+img:hover
+{
+    background-color: gold;
+}
+p
+{
+    color: pink;
+}
+.bacon 
+{
+    background-color:blue ;
+}
+.circular 
+{
+    border-radius: 100%;
+}
+#burger
+{
+    background-color: orangered;
+}
