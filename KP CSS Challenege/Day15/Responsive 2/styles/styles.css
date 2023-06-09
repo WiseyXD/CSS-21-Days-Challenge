@@ -164,3 +164,15 @@ p{
 img,svg,picture{
     width: 100%;
 }
+
+@media (max-width : 620px) {
+    .flex3{
+       flex-direction: column;
+    }
+
+    .flex-basis
+    {
+        width: 100%;
+    }
+
+}
